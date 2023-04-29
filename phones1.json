@@ -1,0 +1,154 @@
+[
+    {
+      "_id": "123456",
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "color": "Phantom Black",
+      "storage": 128,
+      "price": 799.99,
+      "quantity": 5,
+      "image": "https://example.com/images/samsung-galaxy-s21.jpg"
+    },
+    {
+      "_id": "234567",
+      "brand": "Apple",
+      "model": "iPhone 12 Pro Max",
+      "color": "Pacific Blue",
+      "storage": 256,
+      "price": 1099.00,
+      "quantity": 3,
+      "image": "https://example.com/images/apple-iphone-12-pro-max.jpg"
+    },
+    {
+      "_id": "345678",
+      "brand": "OnePlus",
+      "model": "9",
+      "color": "Astral Black",
+      "storage": 128,
+      "price": 729.00,
+      "quantity": 7,
+      "image": "https://example.com/images/oneplus-9.jpg"
+    },
+    {
+      "_id": "456789",
+      "brand": "Google",
+      "model": "Pixel 6",
+      "color": "Stormy Black",
+      "storage": 128,
+      "price": 799.00,
+      "quantity": 4,
+      "image": "https://example.com/images/google-pixel-6.jpg"
+    },
+    {
+      "_id": "567890",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 10 Pro",
+      "color": "Glacial Blue",
+      "storage": 128,
+      "price": 349.00,
+      "quantity": 8,
+      "image": "https://example.com/images/xiaomi-redmi-note-10-pro.jpg"
+    },
+    {
+      "_id": "678901",
+      "brand": "Motorola",
+      "model": "Moto G Power",
+      "color": "Flash Gray",
+      "storage": 64,
+      "price": 199.99,
+      "quantity": 12,
+      "image": "https://example.com/images/motorola-moto-g-power.jpg"
+    },
+    {
+      "_id": "789012",
+      "brand": "Nokia",
+      "model": "5.4",
+      "color": "Dusk",
+      "storage": 64,
+      "price": 249.00,
+      "quantity": 9,
+      "image": "https://example.com/images/nokia-5-4.jpg"
+    },
+    {
+      "_id": "890123",
+      "brand": "LG",
+      "model": "Wing 5G",
+      "color": "Aurora Gray",
+      "storage": 256,
+      "price": 999.99,
+      "quantity": 2,
+      "image": "https://example.com/images/lg-wing-5g.jpg"
+    },
+    {
+      "_id": "901234",
+      "brand": "Sony",
+      "model": "Xperia 5 II",
+      "color": "Black",
+      "storage": 128,
+      "price": 949.99,
+      "quantity": 6,
+      "image": "https://example.com/images/sony-xperia-5-ii.jpg"
+    },
+    {
+        "_id": "012345",
+        "brand": "HTC",
+        "model": "U12+",
+        "color": "Translucent Blue",
+        "storage": 64,
+        "price": 799.00,
+        "quantity": 3,
+        "image": "https://example.com/images/htc-u12-plus.jpg"
+      },
+      {
+        "_id": "987654",
+        "brand": "ASUS",
+        "model": "ZenFone 8",
+        "color": "Obsidian Black",
+        "storage": 128,
+        "price": 699.00,
+        "quantity": 5,
+        "image": "https://example.com/images/asus-zenfone-8.jpg"
+      },
+      {
+        "_id": "876543",
+        "brand": "OPPO",
+        "model": "Find X3 Pro",
+        "color": "Gloss Black",
+        "storage": 256,
+        "price": 1199.00,
+        "quantity": 2,
+        "image": "https://example.com/images/oppo-find-x3-pro.jpg"
+      },
+      {
+        "_id": "765432",
+        "brand": "Realme",
+        "model": "8 Pro",
+        "color": "Infinite Black",
+        "storage": 128,
+        "price": 299.00,
+        "quantity": 9,
+        "image": "https://example.com/images/realme-8-pro.jpg"
+      },
+      {
+        "_id": "654321",
+        "brand": "ZTE",
+        "model": "Axon 30 Ultra",
+        "color": "Black",
+        "storage": 256,
+        "price": 749.99,
+        "quantity": 4,
+        "image": "https://example.com/images/zte-axon-30-ultra.jpg"
+      },
+      {
+        "_id": "543210",
+        "brand": "Lenovo",
+        "model": "Legion Phone Duel 2",
+        "color": "Titanium White",
+        "storage": 512,
+        "price": 999.00,
+        "quantity": 3,
+        "image": "https://example.com/images/lenovo-legion-phone-duel-2.jpg"
+      }
+    ]
+    
+  

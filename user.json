@@ -1,0 +1,167 @@
+[
+    {
+        "_id": 123456,
+        "name": "Pad Thai",
+        "type": "Thai",
+        "price": 10.99,
+        "rating": 4.5,
+        "review": "The Pad Thai was delicious! The noodles were perfectly cooked and the sauce had just the right balance of sweet and sour. The shrimp were fresh and tasty. The only downside was that the portion size was a bit small, but the price was reasonable.",
+        "username": "thai_foodie",
+        "userImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/xvsurr1511719182.jpg"
+    },
+    {
+        "_id": 234567,
+        "name": "Sushi Platter",
+        "type": "Japanese",
+        "price": 24.99,
+        "rating": 4.8,
+        "review": "The Sushi Platter was amazing! The fish was incredibly fresh and the rolls were perfectly made. The wasabi and soy sauce added just the right amount of kick. The only downside was that it was quite expensive, but it was worth it for a special occasion.",
+        "username": "sushi_lover",
+        "userImage": "https://st4.depositphotos.com/4509995/21763/i/600/depositphotos_217634160-stock-photo-portrait-of-white-young-woman.jpg",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/adxcbq1619787919.jpg"
+    },
+    {
+        "_id": 345678,
+        "name": "Margherita Pizza",
+        "type": "Italian",
+        "price": 14.99,
+        "rating": 4.2,
+        "review": "The Margherita Pizza was really good! The crust was crispy and the sauce was tangy. The cheese was melted perfectly. The only downside was that it was a bit expensive for a basic pizza, but it was still worth it for the quality.",
+        "username": "pizza_fan",
+        "userImage": "https://st4.depositphotos.com/1010815/25391/i/600/depositphotos_253918188-stock-photo-young-woman-pouting-lips-making.jpg",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/020z181619788503.jpg"
+    },
+    {
+        "_id": 456789,
+        "name": "Pho",
+        "type": "Vietnamese",
+        "price": 11.99,
+        "rating": 4.7,
+        "review": "The Pho was amazing! The broth was flavorful and the noodles were cooked perfectly. The beef was tender and cooked to perfection. The only downside was that the portion size was a bit small, but the price was reasonable.",
+        "username": "pho_lover",
+        "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTms_a2crWVznpMa_nrYEBO1a4pCpqWPx46fAc4lMbWjGyRsgr4tCvcdHH-B7qPQgTNZjo&usqp=CAU",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/wyrqqq1468233628.jpg"
+    },
+    {
+        "_id": 567890,
+        "name": "Tacos al Pastor",
+        "type": "Mexican",
+        "price": 8.99,
+        "rating": 4.4,
+        "review": "The Tacos al Pastor were really good! The meat was juicy and flavorful, and the toppings added a nice kick of spice. The only downside was that the tortillas were a bit dry, but that didn't take away from the overall experience. The price was very reasonable and I would definitely recommend this dish.",
+        "username": "taco_lover",
+        "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd6VPb6MuqIqNMKWdKs093rjgaAxW9ucRirnxhNlkM484dwP2l71HSMVsUOd8uxxCZPc&usqp=CAU",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/xqwwpy1483908697.jpg"
+    },
+    {
+        "_id": 789012,
+        "name": "Peking Duck",
+        "type": "Chinese",
+        "price": 45.99,
+        "rating": 4.9,
+        "review": "The Peking Duck was absolutely delicious! The skin was crispy and the meat was tender and flavorful. The pancakes and hoisin sauce were the perfect accompaniment. The only downside was that it was quite expensive, but it was worth it for a special occasion.",
+        "username": "chinese_foodie",
+        "userImage": "https://img.freepik.com/free-photo/man-has-thoughtful-focused-expression-holds-chin-considers-what-choice-best-makes-opinion-expresses-judgement-picks-variant-posnders-something-poses-indoor-beige-wall_273609-56335.jpg",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/vvpprx1487325699.jpg"
+    },
+    {
+        "_id": 890123,
+        "name": "Biryani",
+        "type": "Indian",
+        "price": 12.99,
+        "rating": 4.6,
+        "review": "The Biryani was really good! The rice was cooked perfectly and the spices were well-balanced. The chicken was tender and flavorful. The only downside was that it was a bit spicy for my taste, but that's just a personal preference. The price was reasonable and I would definitely order this again.",
+        "username": "indian_foodie",
+        "userImage": "https://img.freepik.com/free-photo/attractive-man-with-dark-eyes-beard-trendy-hairdo-wears-casual-clothes-spectacles_273609-8957.jpg?w=360",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/urtpqw1487341253.jpg"
+    },
+    {
+        "_id": 901234,
+        "name": "Goulash",
+        "type": "Hungarian",
+        "price": 16.99,
+        "rating": 4.4,
+        "review": "The Goulash was delicious! The beef was cooked to perfection and the paprika added a nice kick of flavor. The only downside was that the portion size was a bit small, but the price was reasonable. I would definitely recommend this dish to anyone who loves hearty comfort food.",
+        "username": "hungarian_foodie",
+        "userImage": "https://img.freepik.com/free-photo/thoughtful-man-glasses-searching-inspiration-hold-pencil-look-away_176420-18031.jpg?q=10&h=200",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/ursuup1487348423.jpg"
+    },
+    {
+        "_id": 123789,
+        "name": "Moussaka",
+        "type": "Greek",
+        "price": 13.99,
+        "rating": 4.3,
+        "review": "The Moussaka was really good! The eggplant was cooked perfectly and the meat was well-seasoned. The béchamel sauce added a nice creaminess. The only downside was that it was a bit greasy, but that's to be expected with this type of dish. The price was reasonable and I would definitely order this again.",
+        "username": "greek_foodie",
+        "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCY-L-ZFMPkwkPaaDf4yKm1mfpzxiGRfDtsNfXAGWKIpsEx1ewkup587Iq1QWYd1Q2zo&usqp=CAU",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/ssrrrs1503664277.jpg"
+    },
+    {
+        "_id": 234890,
+        "name": "Kimchi Fried Rice",
+        "type": "Korean",
+        "price": 10.99,
+        "rating": 4.5,
+        "review": "The Kimchi Fried Rice was really good! The kimchi added a nice kick of spice and the egg was cooked perfectly. The only downside was that it was a bit dry, but that didn't take away from the overall experience. The price was very reasonable and I would definitely recommend this dish.",
+        "username": "korean_foodie",
+        "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51HNomX-WRvarebX58HTgH-xCBGBLSwuAPZGHiL2ViOy3yPJYGX8lvogeEmWQXQUYSGc&usqp=CAU",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/uuqvwu1504629254.jpg"
+    },
+    {
+        "_id": 345901,
+        "name": "Lasagna",
+        "type": "Italian",
+        "price": 14.99,
+        "rating": 4.8,
+        "review": "The Lasagna was delicious! The noodles were cooked perfectly and the meat sauce was flavorful. The only downside was that it was a bit too cheesy for my taste, but that's just a personal preference. The portion size was generous and the price was reasonable. I would definitely order this again.",
+        "username": "italian_foodie",
+        "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0YJIWwHt2XV8o_M_b7pL1uJt_hJTAOj-KAnCw3LJAr66RJQWnK_vSsOh5uAAtQWGyUi0&usqp=CAU",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/svprys1511176755.jpg"
+    },
+    {
+        "_id": 456012,
+        "name": "Pho",
+        "type": "Vietnamese",
+        "price": 9.99,
+        "rating": 4.7,
+        "review": "The Pho was really good! The broth was flavorful and the noodles were cooked perfectly. The beef was tender and the bean sprouts and basil added a nice crunch. The only downside was that it was a bit salty for my taste, but that's just a personal preference. The price was very reasonable and I would definitely recommend this dish.",
+        "username": "vietnamese_foodie",
+        "userImage": "https://st2.depositphotos.com/4678277/43795/i/600/depositphotos_437950348-stock-photo-close-up-portrait-of-her.jpg",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/tvvxpv1511191952.jpg"
+    },
+    {
+        "_id": 567123,
+        "name": "Ramen",
+        "type": "Japanese",
+        "price": 11.99,
+        "rating": 4.9,
+        "review": "The Ramen was amazing! The broth was rich and flavorful and the noodles were cooked perfectly. The pork belly was tender and the egg was cooked just right. The only downside was that it was a bit spicy for my taste, but that's just a personal preference. The price was reasonable and I would definitely order this again.",
+        "username": "japanese_foodie",
+        "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjJsU0-QFv7I6HL8PcNvs0Ftk2yDbbKDqAntRN6DmXlc_xQBJyqifTKDLRnUE9FQX2w0&usqp=CAU",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/vxuyrx1511302687.jpg"
+    },
+    {
+        "_id": 678234,
+        "name": "Tacos",
+        "type": "Mexican",
+        "price": 8.99,
+        "rating": 4.6,
+        "review": "The Tacos were really good! The beef was well-seasoned and the tortillas were fresh. The only downside was that the portion size was a bit small, but the price was reasonable. I would definitely recommend this dish to anyone who loves Mexican food.",
+        "username": "mexican_foodie",
+        "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51HNomX-WRvarebX58HTgH-xCBGBLSwuAPZGHiL2ViOy3yPJYGX8lvogeEmWQXQUYSGc&usqp=CAU",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/sywswr1511383814.jpg"
+    },
+    {
+        "_id": 789345,
+        "name": "Pierogi",
+        "type": "Polish",
+        "price": 15.99,
+        "rating": 4.5,
+        "review": "The Pierogi were delicious! The potato and cheese filling was flavorful and the dough was cooked perfectly. The only downside was that the portion size was a bit small for the price, but the taste made up for it. I would definitely order this again.",
+        "username": "polish_foodie",
+        "userImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCTWoCozE2TJPwwF6s2rJqAlwdvyT1ITba665Dg74qZ1wYROeV_0BZRHjqAKyv6cv8xHw&usqp=CAU",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/uyqrrv1511553350.jpg"
+    }
+]
